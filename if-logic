@@ -1,0 +1,11 @@
+#if logic:
+a=20
+if a<30:
+        print('a is less then 30')
+        print('my name is sarath.....')
+        
+        
+        ....output:
+               a is less then 30
+               my name is sarath....
+        
